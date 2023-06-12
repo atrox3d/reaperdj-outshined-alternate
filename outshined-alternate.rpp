@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1686295480
+<REAPER_PROJECT 0.1 "6.68/win64" 1686559790
   <NOTES 0 2
   >
   RIPPLE 0
@@ -220,7 +220,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {DF846B65-E204-4654-856B-2CF693AE8943}
       IID 2
       NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
@@ -266,7 +266,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {030BA26D-DB4F-4D27-B727-013F91130BF4}
       IID 3
       NAME "outshinend-alternate-metronome-D minor-95bpm-442hz.mp3"
@@ -312,7 +312,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {0F54C591-8FB0-446D-97FB-291AD1514023}
       IID 1
       NAME "outshinend-alternate-bass-D minor-95bpm-442hz.mp3"
@@ -358,7 +358,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {BADEE29A-EAE0-4C03-B681-DAE7B6BA1CD2}
       IID 4
       NAME "outshinend-alternate-other-D minor-95bpm-442hz.mp3"
@@ -414,7 +414,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {528533AA-5C6B-43BC-B925-C739DE749D06}
       IID 5
       NAME "outshinend-alternate-vocals-D minor-95bpm-442hz.mp3"
@@ -460,7 +460,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {4943D592-06D9-427E-82F3-1E5C8DEC1638}
       IID 6
       NAME outshinend-alternate.mp3
