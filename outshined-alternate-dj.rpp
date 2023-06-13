@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1686646492
+<REAPER_PROJECT 0.1 "6.68/win64" 1686646894
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,8 +17,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 9.56183966632117 0 0
-  VZOOMEX 3 222
+  ZOOM 4.20945479399095 0 0
+  VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 93.5 4 4
   PLAYRATE 1 1 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 244.98412835967201 249.35069430422777
+  SELECTION2 244.98412835967201 249.35069430422777
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -274,7 +274,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -288,7 +288,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 247.77247165532879
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -303,6 +303,694 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {9469D443-4DD5-4A91-BA92-B250FDDE1B12}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 R
+      SEL 0
+      IGUID {1EC24570-112B-4CD1-84D2-69437F01D1ED}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32FCAB4F-F991-4253-86CF-CF8462E63BEB}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 17.60882115313755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {05635FD8-EA1E-4A32-803B-C5D1BBD7296E}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D61A9F7E-08E1-4404-B5C4-88378668D87E}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.57967628129191
+      SNAPOFFS 0
+      LENGTH 4.43164377115313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16809984 R
+      SEL 0
+      IGUID {16208F0F-A91D-427A-BF32-8F83CEB418A1}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.91019447989308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6F3E3FD-877D-44D3-8F7B-1F7B60930441}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 45.01132005244504
+      SNAPOFFS 0
+      LENGTH 17.75766857840195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {BF1D1BC4-B470-486C-8814-89BC4F2608AE}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 41.34183825104621
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAEA7381-294D-4256-A7D5-39EEF1CBE4F9}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 62.768988630847
+      SNAPOFFS 0
+      LENGTH 2.536743694584
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {47CF02F7-B15C-4069-9496-E91AE807B064}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 59.09950682944817
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9F22F8E-582C-41D1-8C93-BA5AE4BBF1F9}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.30573232543099
+      SNAPOFFS 0
+      LENGTH 17.71944807513357
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {C1F305E0-8E53-4A0E-BA45-44C97AEFEC46}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.63625052403216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA795B67-8A44-4237-8BD2-94ECB3DB0362}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83.02518040056457
+      SNAPOFFS 0
+      LENGTH 7.68218886069933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {2B2575FE-910A-414E-BFC1-C1E4684F2DA8}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.35569859916573
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E55A4E-5673-4059-85C0-E9C17AD78F02}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.70736926126389
+      SNAPOFFS 0
+      LENGTH 2.54390485268937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {B57D171D-5AD5-46E0-A88F-314F198AA950}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 87.03788745986506
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9619BC31-779A-48AF-9024-376A15EFF203}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 93.25127411395326
+      SNAPOFFS 0
+      LENGTH 7.57114539490733
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {C3310195-8F2A-4A64-A165-F39736D543CF}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 89.58179231255443
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1983683F-3303-46B7-9659-2F32BE62D489}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 100.82241950886059
+      SNAPOFFS 0
+      LENGTH 5.0221931119554
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {4D8961DC-E160-46E0-8C8C-672E4699A226}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 97.15293770746176
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFD15DFB-36AB-48CE-A631-89976FE4E94E}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 105.84461262081599
+      SNAPOFFS 0
+      LENGTH 4.49197860962566
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {A661DCA9-15A1-4369-A9EA-A247907A1262}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 102.17513081941716
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3637A5DD-DD37-4AED-BA38-52AEB2F673C8}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 110.33659123044166
+      SNAPOFFS 0
+      LENGTH 4.40943410554422
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 R
+      SEL 0
+      IGUID {4514437E-95D9-46CA-9FEF-1121F648F9FB}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 106.66710942904282
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B160823-99D0-4863-8840-A746B56E2459}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.74602533598588
+      SNAPOFFS 0
+      LENGTH 17.55940133248413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {C1F5AEE8-149B-4910-A1EF-D9665ABA917B}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 111.07654353458705
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2ED51EA5-25E7-41A0-B77F-EFFED021B5C9}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 132.30542666847001
+      SNAPOFFS 0
+      LENGTH 2.54299246638482
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {19A44182-F5CC-4F8A-BD17-830D97C06AE6}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 128.63594486707117
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2F7E57F-4B42-4E93-BE6B-C2BC2D6C093C}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.84841913485482
+      SNAPOFFS 0
+      LENGTH 17.66949135710902
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {02431A88-1BAB-478F-A8EA-D527105B844F}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 131.17893733345599
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D130CA7-4C88-498F-93F1-E21E88BB7497}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 152.51791049196385
+      SNAPOFFS 0
+      LENGTH 7.69474120717484
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {16E00196-DA25-4474-8A87-68EB204DBA0C}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 148.84842869056502
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6A4AA74-2371-490D-8788-14549C7A65FB}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 160.21265169913869
+      SNAPOFFS 0
+      LENGTH 2.55984223056117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {90C03880-D494-40FD-8466-52F50DCC87E5}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 156.54316989773986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDB4C907-1769-4774-A176-50E7F9A2C501}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 162.77249392969986
+      SNAPOFFS 0
+      LENGTH 7.54259605231027
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {D552775B-6EC8-4B9A-BF49-1DA3F369FE0D}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 159.10301212830103
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1698A8D-9F91-4289-BD6D-43F9000E07C3}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 170.31508998201014
+      SNAPOFFS 0
+      LENGTH 5.02192114075086
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {DB6EF721-6D62-4608-9A49-8C1E60995B63}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 166.6456081806113
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB8B10CB-A0F0-43B0-B614-75E12C4AD23A}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 175.337011122761
+      SNAPOFFS 0
+      LENGTH 4.402752134335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {0895B5C5-60F8-4068-97F1-05A427881864}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 171.66752932136217
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71F7C58B-D331-4B92-83BD-B18C7D375B9F}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.739763257096
+      SNAPOFFS 0
+      LENGTH 10.09477651900758
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521792 R
+      SEL 0
+      IGUID {B4F9560A-C052-4953-A731-F899CC774D8A}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.07028145569717
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F48F7B0E-159C-457A-B119-0E563DEDF227}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 189.83453977610358
+      SNAPOFFS 0
+      LENGTH 10.1298372597399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 20971648 R
+      SEL 0
+      IGUID {D3FEEE79-196F-441A-ACD8-637C3B1E58A6}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 186.16505797470475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E0ADFEE-1045-4201-B346-36A9A887B49B}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 199.96437703584348
+      SNAPOFFS 0
+      LENGTH 10.00354393221173
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 1
+      IGUID {21944633-37BF-4369-BCE8-35B4C13FD770}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 196.29489523444465
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F31EFDBA-CD8E-4EB2-AE1E-A3CE9F78D425}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 209.96792096805521
+      SNAPOFFS 0
+      LENGTH 12.44003479019153
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AB8DDC2-B1A9-498F-A12E-C630D69ECE4B}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 206.29843916665638
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13DCCD41-B1D8-4CA3-968F-1CBE59928AB1}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 222.40795575824674
+      SNAPOFFS 0
+      LENGTH 7.63768677409976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {FAF6AC0F-D88A-4F6D-B77A-2E74C983C9C2}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 218.73847395684791
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39CC58A7-E4DD-41C3-BC28-90AEBE6287E6}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 230.04564253234651
+      SNAPOFFS 0
+      LENGTH 2.5234411905368
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {795ADC30-519D-482C-83EC-D0DA118836D3}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 226.37616073094767
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75A817A4-CF29-4FA0-83BA-2E68D5C83A76}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 232.56908372288331
+      SNAPOFFS 0
+      LENGTH 7.41707629954749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {0736375D-31B4-4300-81A7-9149DDE6ACEB}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 228.89960192148448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {884C67FA-C16D-4715-9488-4DC8A79DBAE9}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 239.98616002243079
+      SNAPOFFS 0
+      LENGTH 4.99796833724122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489151 R
+      SEL 0
+      IGUID {47FE70FE-1766-47C7-9512-A03C9FEA1858}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.31667822103196
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E035943F-F20D-42EC-9F09-9D79C1903445}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 244.98412835967201
+      SNAPOFFS 0
+      LENGTH 4.36656594455576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {D41D5D24-F173-4488-89D9-4A05DA31C180}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 241.31464655827318
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C6CCB60-FE9F-4D8D-8F1C-C840DE55B3AE}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 249.35069430422777
+      SNAPOFFS 0
+      LENGTH 2.09125915249982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96FCBA57-0C91-44E4-9530-6605AEA85F79}
+      IID 2
+      NAME "outshinend-alternate-drums-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 245.68121250282894
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B72B0ED-F3B3-4194-AA03-D47895EA244F}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate-drums-D minor-95bpm-442hz.mp3" 1
       >
@@ -657,7 +1345,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 336.44818627791824
+      LENGTH 5.133689839572
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -676,6 +1364,214 @@
         HASDATA 1 960 QN
         CCINTERP 32
         POOLEDEVTS {0350D137-2C3A-4720-AFA9-0FC08869F026}
+        E 3840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 840 90 30 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {F3383F87-69A6-4F94-B676-8272D98134A3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 191
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.013154 75 13 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D909D49D-DD89-4291-A180-F28CE99C2C41}
+      IID 218
+      NAME "CLICK untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.7005347593581 11.99999999999971
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {220CBF35-F712-4B65-990F-2199E07D1262}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {39DF0C1D-162D-4996-AA23-128D7021B21A}
+        E 3840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 840 90 30 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 0 90 32 7f
+        E 0 90 2f 7f
+        E 120 80 30 00
+        E 0 80 32 00
+        E 0 80 2f 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 90 30 7f
+        E 120 80 30 00
+        E 840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CC850C7E-043C-46FE-AC25-7F3690429409}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 210
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.013154 75 13 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 313.47733114976387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {725CD9EF-D0AB-4ACA-BD6B-ECA2CCB1E318}
+      IID 218
+      NAME "CLICK untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 25.53770004794046 39.99999999999969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6797FAE1-94E8-410A-BE70-FE112CDEB7D6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3EF29425-425F-4972-8795-B41A7DF5AAF4}
         E 3840 90 30 7f
         E 0 90 32 7f
         E 0 90 2f 7f
@@ -1767,9 +2663,9 @@
         E 840 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {F3383F87-69A6-4F94-B676-8272D98134A3}
+        GUID {CC37AEC8-2364-4B42-97B6-EE091E0BDA46}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 191
+        SRCCOLOR 211
         VELLANE -1 100 0
         CFGEDITVIEW 0 0.013154 75 13 0 -1 0 0 0 0.5
         KEYSNAP 0
@@ -1883,7 +2779,7 @@
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -1926,7 +2822,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 60.00430839002268
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1941,6 +2837,50 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D323F9A9-6DDA-45BB-8B4E-41AAA27E4B12}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-metronome-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B941A33-5603-43BF-B85E-8588DCC86637}
+      IID 3
+      NAME "outshinend-alternate-metronome-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5D0575F-8F2D-4D6B-818A-0A97F9347CB9}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-metronome-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 40.70293506326715
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E9FB02C-CBB8-4D93-A37A-0584822B3C3F}
+      IID 3
+      NAME "outshinend-alternate-metronome-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F308DB16-31C1-4B1A-AEB9-131870C46DB3}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate-metronome-D minor-95bpm-442hz.mp3" 1
       >
@@ -1972,7 +2912,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 247.77247165532879
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1987,6 +2927,50 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {2F96A893-1A5C-4C03-8E1F-AFAE2C0D3D45}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-bass-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BCC2411-A16C-439F-BDEB-5EA538A2D524}
+      IID 1
+      NAME "outshinend-alternate-bass-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF355465-C4DA-4AE7-8849-93EF5A245025}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-bass-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 228.47109832857325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE3A9A64-B7EC-4AF7-AC29-0F245AB28571}
+      IID 1
+      NAME "outshinend-alternate-bass-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C0FD242-8976-4F10-8FF2-EDDB0CA9A2F7}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate-bass-D minor-95bpm-442hz.mp3" 1
       >
@@ -2018,7 +3002,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 247.77247165532879
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2033,6 +3017,50 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E8D696B9-A5FF-471B-8DDD-728B9628FB5F}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-other-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DED359EB-651D-4303-9D08-CCDCA2C665B7}
+      IID 4
+      NAME "outshinend-alternate-other-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB7D5D2A-332C-4DF5-9191-F63950CDC17D}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-other-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 228.47109832857325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A25EB4-F7AA-46BD-8321-3320C1EDCFC1}
+      IID 4
+      NAME "outshinend-alternate-other-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {536E9823-DDB0-4C6D-9F99-9F0DBA072CEB}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate-other-D minor-95bpm-442hz.mp3" 1
       >
@@ -2064,7 +3092,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 247.77247165532879
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2079,6 +3107,50 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E44318A2-EF22-47BD-861E-76838F4C2079}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-vocals-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A98940C-4040-43BF-BD2A-0476D19CFD9A}
+      IID 5
+      NAME "outshinend-alternate-vocals-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB92150F-A345-4E9A-AD1B-A572A58CF575}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate-vocals-D minor-95bpm-442hz.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 228.47109832857325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43F33384-155A-468E-B41D-FECC7D262D7B}
+      IID 5
+      NAME "outshinend-alternate-vocals-D minor-95bpm-442hz.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55E97466-FB66-435A-9032-8565930C6679}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate-vocals-D minor-95bpm-442hz.mp3" 1
       >
@@ -2110,7 +3182,7 @@
     <ITEM
       POSITION 3.66948180139883
       SNAPOFFS 0
-      LENGTH 247.75691609977324
+      LENGTH 1.46420803817317
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2125,6 +3197,50 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D0000070-4616-49D4-87D9-0EE50549625B}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.133689839572
+      SNAPOFFS 0
+      LENGTH 17.83716528858236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B7FF44C-C976-4DAA-83C8-A6399E2192DA}
+      IID 6
+      NAME outshinend-alternate.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46420803817317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9746CF11-AE9F-4825-A37C-0B082E521534}
+      <SOURCE MP3
+        FILE "audio-in\outshinend-alternate.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22.97085512815436
+      SNAPOFFS 0
+      LENGTH 228.4555427730177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0FBBCA4-2D5C-4376-8BD3-77102F2F4C80}
+      IID 6
+      NAME outshinend-alternate.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 19.30137332675553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BDEC146-B7C9-4F3E-BD79-4809A3E88DEB}
       <SOURCE MP3
         FILE "audio-in\outshinend-alternate.mp3" 1
       >
