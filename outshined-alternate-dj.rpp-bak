@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1715435288
+<REAPER_PROJECT 0.1 "6.68/win64" 1715435331
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,7 +16,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 72.9221305332442
+  CURSOR 0
   ZOOM 4.50732441103294 0 0
   VZOOMEX 3 0
   USE_REC_CFG 0
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\untitled.mp3"
+  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\outshined-click.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -1015,7 +1015,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 3.98107170553497 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
